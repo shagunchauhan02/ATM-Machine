@@ -1,4 +1,4 @@
-# 🏦 Simple ATM Machine in Java
+# 🏦 Java-Based ATM Simulator
 
 This is a basic **ATM Machine simulation** developed in Java using console-based input and output. It allows a user to check their balance, deposit money, withdraw money, and exit — all after verifying a 4-digit PIN.
 
